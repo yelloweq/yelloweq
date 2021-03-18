@@ -9,13 +9,9 @@
 Welcome to my Github page! I am Iwo and I am currently studying Cyber Security at Aston University in Birmingham.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yelloweq)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iwo.grzes237@gmail.com)
-<a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> Discord: Iwo#8888 </a>
-
-<br />
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=white)](mailto:iwo.grzes237@gmail.com)
 
 ---
-
 
 ### 💻 Right now, I am:
 
@@ -37,7 +33,7 @@ Welcome to my Github page! I am Iwo and I am currently studying Cyber Security a
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github)
 
 #### > Editors and Operating Systems:
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/-elipse-000000?style=for-the-badge&logo=windows-10)
 ![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
