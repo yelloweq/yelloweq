@@ -10,7 +10,8 @@ Welcome to my Github page! I am Iwo and I am currently studying Cyber Security a
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yelloweq)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iwo.grzes237@gmail.com)
-<a><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Iwo#8888 </a>
+<a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> Discord: Iwo#8888 </a>
+
 <br />
 
 ---
@@ -21,23 +22,25 @@ Welcome to my Github page! I am Iwo and I am currently studying Cyber Security a
  - Doing a JavaScript/React Mobile app coding bootcamp
  - Keeping up with my Uni course work
  - Trying to get plenty of sleep
- - Probably playing League of legends                                                 ~please help~
+ - Probably playing League of legends                                                 ~send help~
 
 ---
 
 ### 🛠️ What I'm learning and using: 
 
 #### > Software:
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
+![Java](http://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=for-the-badge&logo=Node.js)
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github)
 
 #### > Editors and Operating Systems:
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse](https://img.shields.io/badge/windows-green.svg?style=flat-square&logo=windows-10)
-![Windows](https://img.shields.io/badge/windows-OS-white.svg?style=flat-square&logo=windows)
-
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/-elipse-000000?style=for-the-badge&logo=windows-10)
+![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows)
+![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ---
 
 ### 🏆 Github Stats:
