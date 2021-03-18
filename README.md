@@ -10,6 +10,7 @@ Welcome to my Github page! I am Iwo and I am currently studying Cyber Security a
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yelloweq)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iwo.grzes237@gmail.com)
+<a><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Iwo#8888 </a>
 <br />
 
 ---
