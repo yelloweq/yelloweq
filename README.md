@@ -4,7 +4,7 @@
 ![status](https://img.shields.io/badge/Status-up-brightgreen)
 ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgrey)
 ![](https://img.shields.io/badge/Relationship-Single-red)
-![](https://img.shields.io/badge/Year-1st-blueviolet)
+![](https://img.shields.io/badge/Year-2nd-blueviolet)
 
 Welcome to my Github page! I am Iwo and I am currently studying Cyber Security at Aston University in Birmingham.
 
