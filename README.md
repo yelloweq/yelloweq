@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Relationship-Single-red)
 ![](https://img.shields.io/badge/Year-2nd-blueviolet)
 
-Welcome to my Github page! I am Iwo and I am currently studying Cyber Security at Aston University in Birmingham.
+Welcome to my Github page! My name's Iwo and I am currently studying Cyber Security at Aston University in Birmingham.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yelloweq)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=white)](mailto:iwo.grzes237@gmail.com)
