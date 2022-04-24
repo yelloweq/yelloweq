@@ -14,10 +14,10 @@ Welcome to my Github page! My name's Iwo and I am currently studying Cyber Secur
 
 ### 💻 Right now, I am:
 
- - Doing a JavaScript/React Mobile app coding bootcamp
+ - Preparing to start a Software Development Placement
  - Keeping up with my Uni course work
  - Trying to get plenty of sleep
- - Probably playing League of legends                                                 ~send help~
+ - Slowly working through or looking for side projects
 
 ---
 
