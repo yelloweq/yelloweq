@@ -38,7 +38,7 @@ Welcome to my Github page! My name's Iwo and I am currently studying Cyber Secur
 #### > Editors and Operating Systems:
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/-eclipse-000000?style=for-the-badge&logo=windows-10)
-![AndroidStudio](http://img.shields.io/badge/-Android-Studio-000000?style=for-the-badge&logo=Android Studio)
+![AndroidStudio](https://img.shields.io/badge/-Android_Studio-000000?style=for-the-badge&logo=AndroidStudio)
 ![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![iOS](http://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple)
