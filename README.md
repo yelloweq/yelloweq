@@ -25,8 +25,8 @@ Welcome to my Github page! My name's Iwo and I am currently studying Cyber Secur
 #### > Software:
 ![Java](http://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java)
 ![Nuxt](http://img.shields.io/badge/-Nuxt.js-000000?style=for-the-badge&logo=Nuxt.js)
-![Kotlin](http://img.shields.io/badge/-Kotlin.js-000000?style=for-the-badge&logo=Kotlin)
-![Swift](http://img.shields.io/badge/-Swift.js-000000?style=for-the-badge&logo=Swift)
+![Kotlin](http://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=Kotlin)
+![Swift](http://img.shields.io/badge/-Swift-000000?style=for-the-badge&logo=Swift)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
