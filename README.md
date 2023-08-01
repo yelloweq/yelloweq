@@ -3,7 +3,7 @@
 ![degree](https://img.shields.io/badge/Degree-Cyber%20Security%20(Undergrad)-blue)
 ![degree-year](https://img.shields.io/badge/Year-3rd-blueviolet)
 
-I am a 21 year old Junior Software Developer from Poland 🇵🇱 currently studing Cyber Security in Aston University, Birmingham.
+I am a 21 year old Junior Software Developer from Poland currently studing Cyber Security in Aston University, Birmingham.
 
 ##### Contact me here ⬇️
 
@@ -18,7 +18,3 @@ I am a 21 year old Junior Software Developer from Poland 🇵🇱 currently stud
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=for-the-badge&logo=Node.js)
-
-
-#### Some stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=yelloweq&count_private=true&show_icons=false?theme=onedark?include_all_commits)
