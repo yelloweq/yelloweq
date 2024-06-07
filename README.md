@@ -1,10 +1,10 @@
 
 ## About me
-Nationality: Polish
-Studied: Cyber Security @Aston University, Brimingham
-
 Fresh Computer Science Graduate, looking for an entry level Software Development position.
 
+Nationality: Polish
+
+Studied: Cyber Security @Aston University, Brimingham
 ##### Contact me here ⬇️
 
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=white)](mailto:iwo.grzes237@gmail.com)
