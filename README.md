@@ -1,9 +1,9 @@
 
 ## About me
-![degree](https://img.shields.io/badge/Degree-Cyber%20Security%20(Undergrad)-blue)
-![degree-year](https://img.shields.io/badge/Year-3rd-blueviolet)
+Nationality: Polish
+Studied: Cyber Security @Aston University, Brimingham
 
-I am a 21 year old Junior Software Developer from Poland currently studing Cyber Security in Aston University, Birmingham.
+Fresh Computer Science Graduate, looking for an entry level Software Development position.
 
 ##### Contact me here ⬇️
 
