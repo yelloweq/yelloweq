@@ -2,8 +2,6 @@
 ## About me
 Fresh Computer Science Graduate, looking for an entry level Software Development position.
 
-Nationality: Polish
-
 Studied: Cyber Security @Aston University, Brimingham
 ##### Contact me here ⬇️
 
